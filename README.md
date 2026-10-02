@@ -305,3 +305,31 @@ This project is currently a private development project.
 
 **Task Master**  
 React + Vite task management application
+
+
+## AI Model Experiment
+
+This project is also an experiment using the **Qwen3.5 9B The Defiant Fable Uncnr Heretic NEO MAX** model.
+
+The purpose of the experiment is to explore how far a relatively small local AI model can be pushed in real-world software development.
+
+The project intentionally focuses on the debugging and development work required to turn AI-generated code into a functional, usable product.
+
+Rather than evaluating the model only by the quality of its initial output, this project examines the complete process:
+
+- AI-generated code
+- Debugging
+- Error detection
+- Code inspection
+- Problem solving
+- Manual corrections
+- Integration between components
+- Testing
+- Iterative development
+- Turning an incomplete AI-generated project into a working product
+
+The central idea of the experiment is:
+
+> **How much debugging and development work is required to turn AI-generated code into a finished product?**
+
+The project therefore serves both as a functional Task Master application and as a practical experiment in local AI-assisted software development.
